@@ -1,0 +1,11 @@
+# Libraries used by the notebook. Colab already provides pandas, numpy, scikit-learn and matplotlib.
+# After a successful run, pin exact versions from the notebook's "Verify Installed Libraries" cell (e.g. crewai==X.Y.Z).
+crewai
+google-genai
+litellm
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+scikit-learn
+matplotlib
